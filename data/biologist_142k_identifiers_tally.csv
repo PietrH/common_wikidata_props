@@ -1,0 +1,1711 @@
+,Property,n,Label
+4,P214,196374,VIAF ID
+8,P586,119287,IPNI author ID
+13,P428,70060,botanist author abbreviation
+18,P227,45784,GND ID
+19,P7859,45567,WorldCat Identities ID
+20,P6264,43537,Harvard Index of Botanists ID
+21,P691,43241,NKCR AUT ID
+25,P213,37377,ISNI
+27,P244,31778,Library of Congress authority ID
+29,P4081,28015,BHL creator ID
+30,P2671,26906,Google Knowledge Graph ID
+32,P1207,26062,NUKAT ID
+34,P268,24527,Bibliothèque nationale de France ID
+35,P496,24100,ORCID iD
+38,P1006,23328,Nationale Thesaurus voor Auteurs ID
+39,P269,20179,IdRef ID
+40,P646,19823,Freebase ID
+45,P2006,16843,ZooBank author ID
+49,P3430,12924,SNAC ARK ID
+50,P648,12523,Open Library ID
+51,P7902,12095,Deutsche Biographie (GND) ID
+53,P5370,10650,Entomologists of the World ID
+54,P2163,10262,FAST ID
+57,P7293,9003,PLWABN ID
+59,P1153,8687,Scopus author ID
+62,P6944,7364,Bionomia ID
+65,P2038,7182,ResearchGate profile ID
+66,P1871,7077,CERL Thesaurus ID
+67,P3987,7000,SHARE Catalogue author ID
+68,P1015,6612,NORAF ID
+71,P8914,5339,ZOBODAT person ID
+75,P1315,4952,NLA Trove people ID
+78,P1960,4834,Google Scholar author ID
+79,P8189,4673,National Library of Israel J9U ID
+80,P2381,4640,Academic Tree ID
+81,P5375,4614,BIU Santé person ID
+83,P6844,4529,abART person ID
+84,P6821,4461,Uppsala University Alvin ID
+86,P1053,4187,ResearcherID
+87,P1280,3944,CONOR.SI ID
+94,P950,3409,Biblioteca Nacional de España ID
+95,P535,3398,Find A Grave memorial ID
+97,P271,3352,CiNii author ID (books)
+98,P8153,3341,Accademia delle Scienze di Torino ID
+99,P1417,3293,Encyclopædia Britannica Online ID
+100,P3065,3291,RERO ID
+101,P6178,3254,Dimensions author ID
+103,P906,3249,SELIBR ID
+104,P2383,3180,CTHS person ID
+108,P6552,2836,Twitter user numeric ID
+109,P409,2827,Libraries Australia ID
+111,P349,2722,National Diet Library ID
+112,P3829,2703,Publons author ID
+113,P8034,2651,Vatican Library VcBA ID
+114,P5587,2636,Libris-URI
+115,P1415,2531,Oxford Dictionary of National Biography ID
+116,P5019,2524,Brockhaus Enzyklopädie online ID
+117,P949,2506,National Library of Israel ID
+118,P8947,2499,Museo Galileo authority ID
+119,P3762,2485,openMLOL author ID
+120,P3217,2473,Dictionary of Swedish National Biography ID
+122,P6634,2404,LinkedIn personal profile ID
+126,P10168,2322,Zürich Herbaria collector ID
+128,P2349,2308,Stuttgart Database of Scientific Illustrators ID
+129,P3413,2213,Leopoldina member ID
+130,P3029,2197,UK National Archives ID
+131,P3124,2147,Polish scientist ID
+132,P6594,2146,Guggenheim fellows ID
+134,P1580,2119,University of Barcelona authority ID (obsolete)
+135,P9037,2068,BHCL UUID
+136,P2798,2067,Loop ID
+140,P2949,1990,WikiTree person ID
+141,P4012,1988,Semantic Scholar author ID
+142,P1296,1977,Gran Enciclopèdia Catalana ID
+143,P356,1962,DOI
+144,P4638,1962,The Peerage person ID
+145,P3348,1874,National Library of Greece ID
+146,P1005,1869,Portuguese National Library ID
+147,P8179,1849,Canadiana Name Authority ID
+148,P6194,1807,Austrian Biographical Encylopedia ID
+149,P396,1776,SBN author ID
+150,P4228,1770,Encyclopedia of Australian Science ID
+151,P1695,1732,NLP ID (unique)
+156,P9984,1635,CANTIC ID
+157,P2600,1635,Geni.com profile ID
+159,P5380,1625,National Academy of Sciences member ID
+160,P2002,1625,Twitter username
+162,P1273,1598,CANTIC ID (old)
+163,P3956,1593,National Academy of Medicine (France) member ID
+165,P2889,1535,FamilySearch person ID
+166,P3222,1509,NE.se ID
+167,P7982,1502,Hrvatska enciklopedija ID
+171,P5034,1395,National Library of Korea ID
+173,P5415,1368,Whonamedit? doctor ID
+175,P9918,1353,Kallías ID
+176,P5361,1332,BNB person ID
+177,P2732,1331,Persée author ID
+178,P4342,1320,Store norske leksikon ID
+179,P1017,1315,Vatican Library ID (former scheme)
+186,P2924,1219,Great Russian Encyclopedia Online ID
+187,P640,1207,Léonore ID
+188,P9044,1200,GEPRIS-Historisch ID (Person)
+190,P9160,1181,Biographical Dictionary of the Czech Lands ID
+191,P1284,1161,Munzinger person ID
+192,P3973,1153,PIM authority ID
+193,P6023,1149,ResearchGate contributions ID
+194,P1986,1142,Biographical Dictionary of Italian People ID
+197,P3630,1099,Babelio author ID
+198,P1816,1096,National Portrait Gallery (London) person ID
+199,P4789,1085,Who's Who UK ID
+202,P2861,1060,Leidse Hoogleraren ID
+203,P6656,1055,BHCL ID (former scheme)
+204,P549,1042,Mathematics Genealogy Project ID
+205,P902,1029,HDS ID
+206,P4823,983,American National Biography ID
+208,P9322,976,SVKKL authority ID
+211,P1368,944,LNB ID
+213,P3807,929,S2A3 Biographical Database ID
+214,P651,923,Biografisch Portaal van Nederland ID
+217,P8826,901,edition humboldt digital ID
+218,P650,892,RKDartists ID
+221,P8313,878,Den Store Danske ID
+222,P345,870,IMDb ID
+226,P1938,843,Project Gutenberg author ID
+228,P2941,838,Munk's Roll ID
+229,P245,836,Union List of Artist Names ID
+230,P6706,832,De Agostini ID
+231,P8094,831,GeneaStar person ID
+232,P3360,825,Nobel Prize People Nomination ID
+234,P2456,814,DBLP author ID
+235,P6815,801,University of Amsterdam Album Academicum ID
+236,P1907,800,Australian Dictionary of Biography ID
+237,P8349,793,Proleksis enciklopedija ID
+242,P8851,761,CONOR.SR ID
+243,P8341,752,Dansk Biografisk Leksikon ID
+244,P4459,745,Spanish Biographical Dictionary ID
+245,P1711,740,British Museum person or institution ID
+246,P3544,739,Te Papa agent ID
+247,P6683,738,Alexander Turnbull Library ID
+249,P3219,728,Encyclopædia Universalis ID
+250,P7865,726,CoBiS author ID
+253,P1263,720,NNDB people ID
+254,P2862,714,Catalogus Professorum Academiae Rheno-Traiectinae ID
+255,P243,702,OCLC control number
+257,P8998,681,Magyar életrajzi lexikon ID
+258,P4629,678,Online Books Page author ID
+259,P5463,677,AE member ID
+261,P8172,658,Sejm-Wielki.pl profile ID
+262,P8219,656,ASUT ID
+264,P5731,649,Angelicum ID
+265,P3365,646,Treccani ID
+266,P9807,645,SNK ID
+267,P7699,645,National Library of Lithuania ID
+268,P3154,639,Runeberg author ID
+269,P5739,636,Pontificia Università della Santa Croce ID
+270,P2070,626,Fellow of the Royal Society ID
+271,P7666,621,Visuotinė lietuvių enciklopedija ID
+275,P2454,600,KNAW past member ID
+277,P8902,590,Archives at Yale names ID
+278,P8980,590,KANTO ID
+279,P1233,587,Internet Speculative Fiction Database author ID
+282,P2734,574,Unz Review author ID
+283,P1375,568,NSK ID
+284,P1607,568,Dialnet author ID
+285,P951,545,NSZL (VIAF) ID
+286,P3782,541,Artnet artist ID
+287,P3133,540,NSZL name authority ID
+288,P1556,523,zbMATH author ID
+291,P10242,519,Lur Encyclopedic Dictionary ID
+292,P7704,516,Europeana entity
+293,P9058,515,Fichier des personnes décédées ID (matchID)
+296,P8116,499,Encyclopedia of Brno History person ID
+297,P723,483,Digitale Bibliotheek voor de Nederlandse Letteren author ID
+298,P9507,478,NBM authority ID
+300,P2180,473,Kansallisbiografia ID
+302,P9097,465,American Academy in Rome ID
+304,P9159,454,People Australia ID
+306,P7842,452,Vienna History Wiki ID
+307,P9223,449,Provenio UUID
+308,P2750,439,Photographers' Identities Catalog ID
+309,P1819,433,genealogics.org person ID
+310,P9324,429,BiographySampo person ID
+311,P2843,426,Benezit ID
+312,P4955,426,MR Author ID
+313,P4432,421,AKL Online artist ID
+316,P8849,404,CONOR.BG ID
+317,P6812,402,AntWiki article ID
+318,P8953,397,Students of Prague Universities ID
+319,P1254,394,Slovenska biografija ID
+320,P2963,386,Goodreads author ID
+321,P2536,384,Sandbox-External identifier
+322,P1802,382,EMLO person ID
+323,P4223,369,Treccani's Enciclopedia Italiana ID
+324,P2013,363,Facebook ID
+325,P3946,363,Dictionary Grierson ID
+326,P6366,360,Microsoft Academic ID
+327,P6988,360,Hungarian National Namespace person ID
+329,P8496,354,Archive Site Trinity College Cambridge ID
+330,P5329,352,ARMB member ID
+332,P2953,351,Estonian Research Portal person ID
+333,P4619,350,National Library of Brazil ID
+336,P8446,348,Gateway to Research person ID
+339,P4766,344,Australian honours ID
+340,P2966,343,National Library of Wales Authority ID
+341,P6572,342,ProQuest document ID
+342,P10033,341,Biografija.ru ID
+343,P6231,341,BDELIS ID
+344,P1599,340,Cambridge Alumni Database ID
+346,P9579,337,vedidk ID
+347,P6722,336,FemBio ID
+349,P3417,329,Quora topic ID
+350,P2944,325,Plarr ID
+351,P6829,323,Dictionary of Irish Biography ID
+353,P7831,320,NMVW ID
+355,P9300,317,Terezín Memorial Database ID
+356,P7929,316,Roglo person ID
+357,P2799,315,BVMC person ID
+358,P2016,315,Catalogus Professorum Academiae Groninganae ID
+359,P6394,315,ELNET ID
+360,P4124,315,Who's Who in France biography ID
+363,P687,313,BHL page ID
+365,P2977,303,LBT person ID
+366,P7369,303,National Library of Chile ID
+367,P4613,303,Encyclopedia of Modern Ukraine ID
+368,P3188,299,Nobel prize ID (OBSOLETE)
+369,P1953,297,Discogs artist ID
+372,P2080,295,AcademiaNet ID
+373,P8130,293,Internetowy Polski Słownik Biograficzny ID
+374,P8081,290,WBIS ID
+375,P8024,290,Nobel Laureate API ID
+376,P434,289,MusicBrainz artist ID
+377,P6605,289,Plant Illustrations artist ID
+378,P4819,285,Swedish Portrait Archive ID
+379,P3159,282,UGentMemorialis ID
+380,P7893,282,CIÊNCIAVITAE ID
+382,P3051,279,Kindred Britain ID
+383,P8750,277,Unione Romana Biblioteche Scientifiche ID
+384,P4927,277,Invaluable.com person ID
+385,P9541,276,MacArthur Fellows Program ID
+386,P3835,273,Mendeley person ID
+387,P10141,271,Academy of Athens authority ID
+388,P5297,268,Companies House officer ID
+389,P5080,266,Norsk biografisk leksikon ID
+390,P8832,266,PAN member
+392,P3280,260,BAnQ author ID
+393,P7848,257,Frick Art Reference Library Artist File ID
+394,P6556,254,SICRIS researcher ID
+395,P5909,249,HKCAN ID
+396,P2273,249,Heidelberg Academy for Sciences and Humanities member ID
+397,P1741,248,GTAA ID
+398,P1007,244,Lattes Platform number
+399,P7796,244,BeWeb person ID
+400,P4293,242,PM20 folder ID
+401,P4985,238,TMDb person ID
+402,P8168,236,FactGrid item ID
+404,P3368,234,Prabook ID
+406,P2745,231,Dictionary of New Zealand Biography ID
+407,P3226,231,HAS member ID
+409,P3901,229,ADAGP artist ID
+411,P4256,227,BOE ID
+412,P3409,226,Catalogus Professorum Lipsiensis ID
+413,P5063,224,Interlingual Index ID
+414,P2268,222,Musée d'Orsay artist ID
+415,P3429,222,Electronic Enlightenment ID
+416,P1670,221,Canadiana Authorities ID (former scheme)
+417,P8728,220,Nachlässe in Austria ID
+418,P464,220,NOR
+419,P8795,218,General Diamond Catalogue ID
+422,P4787,214,CiNii author ID (articles)
+423,P2492,213,MTMT author ID
+425,P8406,211,Grove Art Online ID
+426,P4491,209,Isidore scholar ID
+427,P4359,207,gravsted.dk ID
+428,P1899,206,LibriVox author ID
+429,P2605,205,ČSFD person ID
+431,P4285,204,Theses.fr person ID
+432,P7029,201,National Library of Russia ID
+433,P2611,201,TED speaker ID
+434,P6878,200,Amburger database ID
+436,P1430,198,OpenPlaques subject ID
+437,P9743,197,Podchaser creator ID
+438,P6234,196,Biographie nationale de Belgique ID
+439,P9282,194,Catalogue of the Capitular Library of Verona author ID
+440,P4536,191,EThOS thesis ID
+442,P9081,190,SEARCH on line catalogue ID
+443,P4854,187,Uppslagsverket Finland ID
+444,P1225,187,U.S. National Archives Identifier
+446,P1248,182,KulturNav-ID
+447,P7305,182,Online PWN Encyclopedia ID
+448,P9495,175,National Historical Museums of Sweden agent ID
+449,P2639,175,Filmportal ID
+450,P5418,173,Pasteur Institute person ID
+451,P8833,172,Union Catalog of Armenian Libraries authority ID
+453,P2003,167,Instagram username
+454,P9738,167,IFPNI author ID
+455,P8317,165,Philadelphia Museum of Art entity ID
+456,P5504,165,RISM ID
+457,P6578,165,MutualArt artist ID
+459,P8941,165,The Galileo Project ID
+460,P4663,164,DACS ID
+461,P2940,161,Catalogus Professorum Rostochiensium ID
+463,P5516,160,Virtual Laboratory person ID
+464,P6698,159,Japan Search name ID
+465,P4200,158,Christie's creator ID
+466,P2401,157,Six Degrees of Francis Bacon ID
+467,P7444,157,Rijksmuseum Research Library authority ID
+472,P7837,155,Nederlands Fotomuseum photographer ID
+473,P5858,152,Index Herbariorum code
+474,P8814,152,WordNet 3.1 Synset ID
+475,P10013,152,SNSF person ID
+476,P2397,151,YouTube channel ID
+479,P5468,149,Historia de la Medicina person ID
+480,P866,148,Perlentaucher ID
+481,P5211,148,GONIAT author ID
+485,P3900,147,CONICET person ID
+487,P8207,146,The Conversation author ID
+488,P6734,145,Archaeology Data Service person ID
+489,P3191,143,IMIS person ID
+490,P4872,143,GEPRIS person ID
+491,P5821,142,ArhivX LOD
+492,P2753,141,Dictionary of Canadian Biography ID
+494,P4553,141,RA Collections ID
+495,P3187,141,Marburger Professorenkatalog ID
+496,P1045,138,Sycomore ID
+497,P6282,137,French Academy of Sciences member ID
+498,P9199,136,Protagonisti della storia delle scienze della mente ID
+499,P3965,135,Bridgeman artist ID
+501,P3885,134,History of Modern Biomedicine ID
+502,P9352,132,Portrait Archive ID
+503,P2037,132,GitHub username
+504,P2005,130,Catalogus Professorum Halensis ID
+505,P839,127,IMSLP ID
+507,P8547,126,BHF author ID
+508,P3603,126,Minneapolis Institute of Art constituent ID
+509,P9776,126,e-Rad researcher number
+510,P2886,125,Shakeosphere person ID
+511,P9251,125,Cyprus University of Technology ID
+512,P8581,125,Hrvatski biografski leksikon ID
+513,P7449,124,NARCIS researcher ID
+514,P3411,123,Saxon Academy of Sciences member ID
+515,P3788,123,BNMM authority ID
+516,P6715,123,SIUSA archive producer person ID
+517,P7349,122,Gazetteer for Scotland person ID
+519,P9756,120,Schoenberg Database of Manuscripts name ID
+521,P9511,120,am.hayazg.info ID
+522,P9164,119,Svenska Institutet i Rom ID
+523,P5374,119,Académie des sciences d'outre-mer member ID
+524,P1309,119,EGAXA ID
+525,P1047,119,Catholic Hierarchy person ID
+527,P9640,116,PAS member ID
+528,P5395,116,Canadian Encyclopedia article ID
+530,P9761,116,IRIS SNS author ID
+531,P4808,115,Royal Academy new identifier
+532,P5617,115,Evene ID
+533,P9985,114,EMBO member ID
+534,P4574,110,Norwegian historical register of persons ID
+535,P5029,109,Researchmap ID
+536,P3846,109,DBC author ID
+537,P9152,107,CollectieGelderland creator ID
+538,P5905,107,Comic Vine ID
+540,P9113,106,Patrinum ID
+542,P4963,105,Svenskt kvinnobiografiskt lexikon ID
+543,P5357,105,The Encyclopedia of Science Fiction ID
+545,P7744,105,Mille Anni di Scienza in Italia ID
+547,P8854,104,Salzburgwiki ID
+548,P1260,103,Swedish Open Cultural Heritage URI
+549,P863,103,InPhO ID
+551,P2287,102,CRIStin ID
+552,P4159,101,WeRelate person ID
+553,P2015,101,Hansard (1803–2005) ID
+554,P2191,101,Vegetti Catalog of Fantastic Literature NILF ID
+555,P7400,100,LibraryThing author ID
+556,P2580,100,Baltisches Biographisches Lexikon digital ID (former scheme)
+557,P7783,100,J-GLOBAL ID
+559,P2298,99,NSDAP membership number (1925–1945)
+560,P3241,98,Catholic Encyclopedia ID
+561,P1213,97,NLC authorities
+562,P3388,97,LittleSis people ID
+563,P6262,97,Fandom article ID
+564,P8079,97,elibrary.ru person ID
+565,P1367,96,Art UK artist ID
+566,P8748,96,Rheinland-Pfälzische Personendatenbank ID
+567,P9795,96,ARPI author ID
+568,P2915,95,ECARTICO person ID
+570,P2342,94,AGORHA person/institution ID
+571,P4431,93,Google Doodle
+572,P4186,92,Australian Women's Register ID
+574,P5101,91,Swedish Literature Bank Author ID
+576,P7578,91,DUC ID
+577,P10085,90,biografiA ID
+578,P8367,90,Legacy.com person ID
+579,P5508,89,archINFORM person or group ID
+581,P5661,88,Académie de Montpellier member ID
+582,P7298,88,Auckland Museum ID
+583,P6735,87,Watercolour World artist ID
+584,P9661,84,EBAF authority ID
+585,P9232,83,Obituaries Australia ID
+586,P1447,82,Sports-Reference.com Olympic athlete ID
+589,P1473,81,BLPL author ID
+590,P5570,81,NooSFere author ID
+591,P781,81,SIKART ID
+592,P3468,81,National Inventors Hall of Fame ID
+594,P6385,80,Krugosvet article
+595,P270,80,CALIS ID
+596,P1341,80,Italian Chamber of Deputies dati ID
+597,P8234,80,LiederNet author ID
+598,P7700,79,Slovak National Library ID (VIAF)
+600,P3475,79,SANU member ID
+601,P1614,79,History of Parliament ID
+602,P2538,78,Nationalmuseum Sweden actor ID
+604,P4759,78,Luminous-Lint ID
+605,P3218,77,Auñamendi ID
+606,P3954,77,Italian Senate ID
+607,P4862,77,Amazon author ID
+608,P7818,76,French Vikidia ID
+609,P9049,76,ICCD agent ID
+610,P6015,76,Handbook of Texas ID
+612,P6284,76,NCpedia ID
+613,P8085,74,Curran Index contributor ID
+614,P4252,74,All-Russian Mathematical Portal ID
+615,P6582,73,Dutch Instrument Makers ID
+616,P5462,73,RHE professor ID
+618,P5552,73,CNRS Talent page
+619,P8861,72,FINA Wiki ID
+620,P8286,72,Olympedia people ID
+622,P4992,71,DBA ID
+623,P1292,71,DNB editions
+624,P2174,71,Museum of Modern Art artist ID
+625,P2450,70,Encyclopædia Britannica contributor ID
+626,P1890,70,CCAB ID
+627,P9163,70,Obrazi slovenskih pokrajin ID
+628,P2604,70,Kinopoisk person ID
+629,P9536,70,SAIA authority ID
+630,P5492,70,EDIT16 catalogue author ID
+631,P4109,70,URN-NBN
+632,P8899,69,Swedish National Library Arken ID
+634,P7663,69,Scienza a due voci ID
+635,P6174,69,The World Academy of Sciences fellow ID
+638,P2029,67,Dictionary of Ulster Biography ID
+639,P1977,67,Les Archives du Spectacle person ID
+640,P9371,67,FranceArchives agent ID
+643,P5496,67,Médicos históricos doctor ID
+644,P8612,66,past Fellow of the Royal Society ID
+645,P1807,66,Great Aragonese Encyclopedia ID
+646,P7208,65,Liber Liber author ID
+647,P1631,65,China Vitae ID
+648,P9036,65,I professori dell'Università di Pavia (1859-1961) ID
+649,P9534,65,Biblioteche della Custodia di Terra Santa a Gerusalemme ID
+650,P9179,64,Biblioteca Iglesia Nacional Española en Roma ID
+651,P8944,64,Archivio dei possessori ID
+652,P4991,64,Biographical Dictionary of Georgia ID
+653,P1184,64,Handle ID
+654,P2252,63,National Gallery of Art artist ID
+655,P10069,63,Tabakalera ID
+656,P7941,63,Biografisch Woordenboek van Nederland: 1880-2000 ID
+660,P6479,61,IEEE Xplore author ID
+661,P9299,61,OsobnostiRegionu.cz ID
+663,P3595,60,Biografiskt Lexikon för Finland ID
+664,P5647,60,Baidu ScholarID
+667,P8669,59,Encyclopaedia Beliana ID
+669,P4174,59,Wikimedia username
+670,P9720,59,fotoCH photographer ID
+672,P9298,59,Encyclopedia of Plzeň person ID
+673,P5421,58,Trading Card Database person ID
+675,P5632,58,Persons of Indian Studies ID
+677,P2943,57,warheroes.ru ID
+678,P888,57,JSTOR article ID
+682,P864,56,ACM Digital Library author ID
+683,P698,56,PubMed ID
+685,P7203,54,Dizionario biografico dei Friulani ID
+686,P8821,54,Memorial Book University of Vienna ID
+687,P2558,54,autores.uy ID
+688,P8589,54,Carl-Maria-von-Weber-Gesamtausgabe ID
+689,P2042,54,Artsy artist ID
+690,P1463,54,Post-Reformation Digital Library author ID
+691,P9226,54,ARAE ID
+693,P9715,53,Room of Names ID
+694,P6723,52,BlackPast.org ID
+695,P9178,51,Biblioteca Franco Serantini ID
+696,P4169,51,YCBA agent ID
+697,P6828,51,Czech parliament ID
+698,P5491,51,BD Gest' author ID
+699,P4539,51,Collective Biographies of Women ID
+700,P6005,51,Muck Rack journalist ID
+702,P932,51,PMCID
+703,P947,50,RSL ID (person)
+704,P1648,50,Dictionary of Welsh Biography ID
+705,P2277,50,Magdeburger Biographisches Lexikon ID
+706,P3945,50,RANM member ID
+707,P6300,49,Hymnary author ID
+708,P9682,49,Gutenberg Biographics ID
+709,P7753,48,Projekt Gutenberg-DE author ID
+710,P1710,48,Sächsische Biografie (GND) ID
+711,P6792,48,Find NZ Artists ID
+712,P7993,48,Treccani's Dizionario di Filosofia ID
+714,P6058,47,Larousse ID
+715,P3074,47,Grace's Guide ID
+716,P8805,47,LIMIS person ID
+717,P6520,47,Lokalhistoriewiki.no ID
+718,P3874,47,Justia Patents inventor ID
+719,P3794,46,Dictionary of Sydney ID
+720,P4839,46,Wolfram Language entity code
+721,P4399,46,Itaú Cultural ID
+722,P6488,46,Enciclopedia delle donne ID
+724,P10227,46,National Library of Ireland ID
+725,P9244,46,Women Australia ID
+726,P1615,46,CLARA-ID
+728,P5243,46,Canal-U person ID
+729,P4471,46,Rush Parliamentary Archive ID
+730,P8636,45,McClintock and Strong Biblical Cyclopedia ID
+731,P1150,45,Regensburg Classification
+733,P2372,45,ODIS ID
+734,P9085,45,Aracne author ID
+735,P2018,44,Teuchos ID
+736,P8951,44,Order of Canada recipient ID
+737,P6746,44,Paměť národa ID
+738,P9913,44,FLORE author ID
+739,P1707,43,DAAO ID
+740,P1138,43,Kunstindeks Danmark Artist ID
+741,P8290,43,Archivio Storico Ricordi person ID
+742,P4890,43,EPHE ID
+743,P5320,43,IUF member ID
+744,P3325,42,student register of the University of Helsinki ID (1853–1899)
+745,P8603,42,Istrapedia ID
+746,P9109,42,Holocaust.cz person ID
+749,P9626,41,Biographical Encyclopedia of Astronomers ID
+751,P8122,41,DLL Catalog author ID
+752,P1185,41,Rodovid ID
+754,P5859,41,Adelphi author ID
+755,P2019,41,AllMovie person ID
+757,P2190,41,C-SPAN person ID
+758,P6868,41,Hoopla artist ID
+759,P6342,41,Dictionnaire des Wallons ID
+760,P9956,41,IRIS Sapienza author ID
+761,P9625,40,Dizionario Biografico dell'Educazione (1800–2000) ID
+762,P7918,40,Médias 19 ID
+763,P8044,40,Frankfurter Personenlexikon ID
+764,P9780,40,The Women's Print History Project person ID
+765,P8462,40,Political Graveyard politician ID
+766,P9054,40,National Historic People ID
+767,P8848,40,CONOR.AL ID
+768,P5005,40,National Thesis Number (France)
+769,P5875,40,ResearchGate publication ID
+770,P7509,40,Estonian biographical database ID
+771,P1563,39,MacTutor biography ID
+772,P9017,39,Medieval Manuscripts in Oxford Libraries person ID
+773,P1266,39,AlloCiné person ID
+774,P10297,39,Google Arts & Culture entity ID
+777,P3847,38,Open Library subject ID
+778,P4104,38,Carnegie Hall agent ID
+779,P9304,38,Encyclopedia of Melbourne ID
+780,P5306,38,LONSEA ID
+781,P6907,38,BVLarramendi ID
+784,P9853,37,Australian Medical Pioneers Index ID
+785,P5441,37,Encyclopaedia Herder person ID
+786,P2168,37,Swedish Film Database person ID
+787,P5301,37,France Culture person ID
+788,P7311,37,Aozora Bunko author ID
+789,P9844,37,IRIS UNIPV author ID
+790,P3389,36,Royal Swedish Academy of Letters member ID
+791,P1157,36,US Congress Bio ID
+792,P5419,36,NYRB contributor ID
+793,P7026,35,Lebanese National Library ID
+794,P1220,35,Internet Broadway Database person ID
+795,P2435,35,PORT person ID
+797,P7986,35,Mirabile author ID
+798,P1214,35,Riksdagen person-ID
+799,P9545,34,Encyclopedia of China Online Database ID
+801,P4145,34,Athenaeum person ID
+802,P1651,34,YouTube video ID
+803,P8385,34,IDU person ID
+804,P675,34,Google Books ID
+805,P5369,34,Encyclopædia Universalis author ID
+807,P2014,34,Museum of Modern Art work ID
+809,P5541,33,Paris Faculty of Science professor ID
+810,P1564,33,At the Circulating Library ID
+812,P1988,33,Le Delarge ID
+815,P5443,32,Collège de France professor ID
+816,P2592,32,Québec cultural heritage directory people identifier
+817,P9796,32,IRIS SSSUP author ID
+818,P5597,31,Artcyclopedia artist ID
+822,P2387,31,Elonet person ID
+823,P2188,31,BiblioNet author ID
+824,P6851,31,Biographical Dictionary of Iowa ID
+825,P8945,31,Museo Galileo biography ID
+828,P8482,31,Český hudební slovník osob a institucí ID
+829,P7491,31,Austrian Parliament 1848–1918 ID
+830,P10226,30,Archivio Storico dell'Università degli Studi di Cagliari person ID
+833,P3935,30,Chamber of Deputies of Italy storia ID
+834,P1025,30,SUDOC editions
+835,P8974,30,SAPA ID
+836,P10023,30,Museu da Pessoa person ID
+837,P6575,30,Académie de Rouen member ID
+838,P2533,30,WomenWriters ID
+839,P7709,30,ScienceOpen author ID
+840,P6873,29,IntraText author ID
+841,P5882,29,Muziekweb performer ID
+842,P4343,29,WBPLN author ID
+843,P9843,29,IRIS UNINA author ID
+844,P6925,29,Musicalics composer ID
+845,P1728,29,AllMusic artist ID
+846,P3988,29,National Library Board Singapore ID
+847,P4717,29,Académie française member ID
+848,P9520,29,Auschwitz Prisoners Database ID
+849,P5502,28,LRB contributor ID
+851,P6213,28,UK Parliament identifier
+852,P8982,28,Pontificio Istituto di Archeologia Cristiana ID
+853,P1422,28,Sandrart.net person ID
+854,P4527,28,UK Parliament thesaurus ID
+855,P8653,28,Museen Dresden article ID
+856,P7032,27,Repertorium van ambtsdragers en ambtenaren ID
+857,P7769,27,Australian National Maritime Museum person ID
+858,P3569,27,Cultureel Woordenboek ID
+859,P3410,27,Clergy of the Church of England database ID
+862,P3299,27,student register of the University of Helsinki ID (1640–1852)
+863,P5489,27,artist-info artist ID
+864,P1438,27,Jewish Encyclopedia ID (Russian)
+865,P5513,27,Enciclopèdia de l'Esport Català ID
+866,P5776,27,Arnet Miner author ID
+867,P1186,27,MEP directory ID
+868,P5212,27,Armenian National Academy of Sciences ID
+870,P8590,26,Jewish Encyclopedia ID
+871,P8705,26,Artist ID of the department of Prints and Drawings of the Louvre
+872,P10057,26,IRIS UNIMI author ID
+873,P5450,26,Biographisches Archiv der Psychiatrie  ID
+874,P8091,26,Archival Resource Key
+875,P9137,26,Doktori.hu ID
+876,P4928,26,Ricorso author ID
+877,P2626,26,Danish National Filmography person ID
+878,P4369,26,Cairn author ID
+879,P724,26,Internet Archive ID
+880,P9430,26,Encyclopedia of Jewish Women ID
+881,P4666,26,CineMagia person ID
+883,P8870,25,Hyperion Records person ID
+884,P1795,25,Smithsonian American Art Museum person/institution ID
+885,P4114,25,ADK member ID
+887,P8696,25,Directory of Belgian Photographers ID
+888,P5390,25,Classiques des sciences sociales ID
+889,P9105,25,Dictionnaire des journalistes ID
+891,P8990,25,World Rowing ID (UUID format)
+892,P6235,25,Académie royale de Belgique member ID
+893,P5325,25,Swedish Academy member ID
+894,P8235,24,LiederNet composer ID
+897,P8440,24,Personendatenbank Germania Sacra ID
+898,P5645,24,Académie française award winner ID
+900,P6514,24,DOGC ID
+902,P2581,23,BabelNet ID
+903,P212,23,ISBN-13
+905,P6404,23,Treccani's Dizionario di Storia ID
+906,P5273,23,Nelson-Atkins Museum of Art person ID
+907,P9563,23,Encyclopedia of Renaissance Philosophy ID
+909,P7474,23,Online Cenotaph ID
+910,P9426,23,Generals of World War II ID
+912,P6228,23,RegiowikiAT ID
+913,P2041,22,National Gallery of Victoria artist ID
+914,P9786,22,Joods Biografisch Woordenboek ID
+915,P10231,22,WikiStrinda ID
+916,P4521,22,Radio Radicale person ID
+917,P7691,22,The Oregon Encyclopedia ID
+918,P5695,22,Bibliopoche author ID
+920,P6295,22,ARTIC artist ID
+921,P5337,22,Google News topics ID
+923,P10314,22,Archivio Biografico Comunale (Palermo) ID
+924,P4966,22,Hungarian National Assembly identifier
+925,P9553,22,Dialnet thesis ID
+926,P2340,21,CESAR person ID
+927,P3185,21,VK ID
+928,P6764,21,V&A person ID
+929,P3267,21,Flickr user ID
+932,P3052,21,Bloomberg person ID
+933,P10058,21,IRIS UNIBO author ID
+934,P7775,20,RationalWiki ID
+935,P7142,20,Poincaré Papers person ID
+937,P7613,20,Biblioteche dei filosofi ID
+938,P1808,20,senat.fr ID
+939,P2418,20,Structurae person ID
+941,P9248,20,EEVA author ID
+942,P2850,20,Apple Music artist ID (American version)
+943,P8580,20,NHK Archives Portal person ID
+945,P2409,20,CiNii article ID
+946,P7711,20,Joconde author ID
+947,P10252,19,Digital Mechanism and Gear Library ID
+948,P6327,19,Goodreads character ID
+949,P9129,19,Data Collection of the Hungarian Peerage ID
+950,P4457,19,DAHR artist ID
+951,P4590,19,Atomic Heritage Foundation ID
+952,P7939,19,Dansk kvindebiografisk leksikon ID
+953,P3258,19,LiveJournal ID
+954,P9914,19,USiena air author ID
+955,P3233,19,PhilPeople profile
+956,P6100,19,YÖK Academic Profile ID
+959,P9463,18,MovieMeter person ID
+962,P865,18,BMLO ID
+963,P1980,18,PolSys ID
+964,P8578,18,TracesOfWar person ID
+965,P9522,18,Biblioteca di Santa Sabina ID
+966,P6038,18,AFAS author ID
+967,P9952,18,Gente di Tuscia ID
+968,P7314,18,TDV İslam Ansiklopedisi ID
+969,P6173,18,Bitraga author ID
+970,P1979,18,Righteous Among The Nations ID
+972,P5324,18,Swedish National Archive Reference Code
+973,P6817,18,SVT Play ID
+974,P9880,18,Festivaletteratura person ID
+975,P4585,18,Accademia della Crusca ID
+976,P3887,18,KVAB member ID
+977,P4450,18,HAL author ID
+978,P7237,18,China Engineering Expert Tank ID
+979,P1048,17,NCL ID
+980,P5341,17,Poetry Foundation ID
+981,P1969,17,MovieMeter director ID (former scheme)
+982,P2697,17,ESPNcricinfo.com player ID
+983,P3372,17,Auckland Art Gallery artist ID
+984,P7433,17,FantLab author ID
+985,P6059,17,Biographie vosgienne ID
+986,P10114,17,Natural History Museum (London) person ID
+987,P8793,17,Quirinale ID
+988,P9033,17,Archivo Histórico de diputados de España ID
+990,P2741,17,Tate artist ID
+992,P7847,17,DigitaltMuseum ID
+995,P9165,17,Lexikon Literatur in Tirol ID
+996,P7128,17,Archives Directory for the History of Collecting in America ID
+997,P7558,17,Inguma database ID
+998,P1749,17,Parlement.com ID
+999,P9651,17,Book Owners Online person ID
+1000,P5368,17,National Gallery of Canada artist ID
+1001,P4232,17,Figshare author ID
+1003,P6536,17,Gateway to Research Project ID
+1004,P8995,16,Lumières.Lausanne ID
+1005,P8432,16,Österreichisches Musiklexikon Online ID
+1006,P6482,16,"Image Archive, Herder Institute"
+1007,P6412,16,Gran Enciclopèdia de la Música ID
+1009,P1331,16,PACE member ID
+1010,P4724,16,Maitron ID
+1011,P5378,16,Akadem person ID
+1012,P6745,16,Orlando author ID
+1013,P3106,16,Guardian topic ID
+1014,P7445,16,Basis Wien person ID
+1015,P4248,16,The Black Book ID
+1016,P9169,16,Tree of Life contributor ID
+1017,P4042,16,ESBL athlete ID
+1019,P1902,15,Spotify artist ID
+1020,P1908,15,CWGC person ID
+1022,P7212,15,LyricsTranslate ID
+1023,P2607,15,BookBrainz author ID
+1024,P9117,15,BVFE author ID
+1025,P7972,15,CVR person ID
+1026,P4802,15,BVPB authority ID
+1027,P2847,15,Google+ ID
+1028,P2973,15,Spenserians person ID
+1029,P5239,15,Artists in Canada record number
+1032,P6551,15,Physics History Network ID
+1033,P3940,15,OlimpBase Chess Olympiad player ID
+1034,P4813,14,PARES ID
+1035,P9943,14,Hill Museum & Manuscript Library ID
+1037,P6804,14,Art Gallery of South Australia creator ID
+1038,P7874,14,EFIS person ID
+1039,P3192,14,Last.fm ID
+1044,P9329,14,Svoya Igra television player ID
+1045,P9656,14,"Istituto Veneto di Scienze, Lettere ed Arti member ID"
+1046,P5247,14,Giant Bomb ID
+1048,P5308,14,Dictionary of Scottish Architects ID
+1049,P2030,14,NASA biographical ID
+1051,P3237,14,KU Leuven person ID
+1052,P9808,14,arheologi.ro ID
+1054,P8544,13,Frauen in Bewegung 1848–1938 ID
+1055,P5546,13,College de France professor ID (1909-1939)
+1056,P1882,13,Web Gallery of Art ID
+1057,P7935,13,Corpus Corporum author ID
+1058,P9171,13,RILM ID
+1059,P5469,13,Mormon Literature and Creative Arts Database artist ID
+1060,P7024,13,Flemish Public Libraries ID
+1061,P2332,13,Dictionary of Art Historians ID
+1063,P7039,13,National Library of Iceland ID
+1064,P9141,13,Portal da Literatura ID
+1065,P3123,13,Stanford Encyclopedia of Philosophy ID
+1068,P4936,13,SFMOMA artist ID
+1069,P9415,13,ÖCV Biolex ID
+1070,P3747,13,SSRN author ID
+1071,P2087,13,Crunchbase person ID
+1072,P9629,13,Armeniapedia ID
+1073,P3478,13,Songkick artist ID
+1074,P9502,13,Digital DISCI ID
+1075,P5355,13,abgeordnetenwatch.de politician ID
+1076,P7425,13,Rotterdam City Archives actor ID
+1077,P10272,13,Archive ouverte UNIGE ID
+1078,P8080,13,Ökumenisches Heiligenlexikon ID
+1079,P5376,13,Medicina author ID
+1085,P5478,12,RPO poet ID
+1086,P9543,12,Memento Vienna person ID
+1087,P5815,12,Olympics.com athlete ID / archived OlympicChannel ID
+1088,P6302,12,Dictionnaire de spiritualité ID
+1089,P7928,12,BioLexSOE ID
+1090,P998,12,Curlie ID
+1092,P9048,12,Biographical Archive of Psychiatry ID
+1093,P9287,12,Cyprus Bibliography ID
+1094,P1996,12,parliament.uk biography pages
+1095,P2638,12,TV.com ID
+1096,P10283,12,OpenAlex ID
+1097,P7944,12,DoME artist ID
+1100,P5952,12,Annuaire de la magistrature ID
+1101,P3390,12,NLB authority ID
+1102,P2011,12,Cooper-Hewitt Person ID
+1103,P3791,12,Art Renewal Center artist ID
+1104,P7077,12,Paris Foreign Missions Society ID
+1105,P957,12,ISBN-10
+1107,P4887,12,Web umenia creator ID
+1108,P8388,12,Swedish Parliament person GUID
+1110,P9915,12,IRIS IMT author ID
+1111,P7685,11,CALS Encyclopedia of Arkansas ID
+1112,P3171,11,Olympic.org athlete ID (archived)
+1113,P7466,11,Edvard Munch's correspondance person ID
+1114,P5271,11,Saint Louis Art Museum person ID
+1115,P4657,11,The Numbers person ID
+1116,P5613,11,Bibliothèque de la Pléiade ID
+1117,P7947,11,WeChangEd ID
+1118,P2519,11,Scope.dk person ID
+1119,P5088,11,Internet Encyclopedia of Philosophy ID
+1120,P5068,11,Flanders Arts Institute person ID
+1121,P6573,11,Klexikon article ID
+1122,P8408,11,KBpedia ID
+1123,P8759,11,Polski Słownik Judaistyczny ID
+1124,P6002,11,WikiArt ID
+1125,P4158,11,autores.ar ID
+1127,P10258,11,UNICA IRIS author ID
+1128,P5631,11,Canal Académie ID
+1129,P8159,11,SciProfiles ID
+1130,P8350,11,Singapore Infopedia ID
+1131,P2280,11,Austrian Parliament ID
+1132,P5664,11,Savoirs ENS ID
+1133,P8971,11,Cinémathèque québécoise person ID
+1134,P1650,11,BBF ID
+1135,P4749,11,Dictionnaire des auteurs luxembourgeois ID
+1136,P5404,11,Rate Your Music artist ID
+1137,P3599,11,archival creator authority record at the Archives nationales
+1138,P4026,11,Cullum number
+1139,P7357,11,Diccionari de la Literatura Catalana ID
+1140,P6362,11,Litchfield Ledger ID
+1141,P8418,11,Oberwolfach mathematician ID
+1142,P5819,11,International Mathematical Olympiad participant ID
+1143,P3023,11,Legacies of British Slave-ownership person ID
+1145,P9653,11,Bod-Inc Online author ID
+1146,P5035,11,Lambiek Comiclopedia artist ID
+1147,P1866,11,Catholic Hierarchy diocese ID
+1148,P8222,11,rating.chgk.info ID
+1149,P4620,10,Merkelstiftung person ID
+1150,P10012,10,NSW Parliament member ID
+1151,P6329,10,Share-VDE author ID
+1152,P7502,10,Golden ID
+1153,P2698,10,CricketArchive player ID
+1154,P5705,10,Los Angeles Review of Books author ID
+1155,P4389,10,Science Museum people ID
+1156,P5002,10,Orthodox Encyclopedia ID
+1158,P9434,10,Proveana ID
+1159,P2477,10,BDRC Resource ID
+1160,P7041,10,Perseus author ID
+1161,P8065,10,CIRIS author ID
+1162,P5534,10,Open Media Database person ID
+1163,P5618,10,LOA ID
+1165,P5839,10,Académie de Marseille member ID
+1166,P8569,10,YIVO Encyclopedia of Jews in Eastern Europe ID
+1167,P3392,10,Surman ID
+1168,P2549,10,Italian Senate of the Republic ID
+1169,P3072,10,Storting person ID
+1170,P4130,10,USHMM person ID
+1171,P4434,10,LesBiographies.com ID
+1172,P10010,10,IRIS IUSS author ID
+1173,P1788,10,DVN ID
+1175,P3553,10,Zhihu topic ID
+1177,P3899,10,Medium username
+1178,P2930,10,INSPIRE-HEP author ID
+1179,P4211,10,Bashkir encyclopedia (Russian version) ID (former scheme)
+1180,P9458,10,Russians of Latvia ID
+1181,P8568,10,Jewish Virtual Library ID
+1182,P236,10,ISSN
+1185,P4411,9,Quora username
+1187,P3269,9,Fotografen.nl ID
+1188,P7686,9,Encyclopedia of the Great Plains ID
+1190,P7507,9,Ben Yehuda author ID
+1191,P1842,9,Global Anabaptist Mennonite Encyclopedia Online ID
+1192,P1828,9,IPI name number
+1193,P9459,9,Rekhta author ID
+1194,P6677,9,OpenEdition Books author ID
+1195,P7827,9,Spanish Vikidia ID
+1196,P4215,9,nLab ID
+1197,P9791,9,ASE person ID
+1198,P9331,9,Storiaememoriadibologna ID
+1200,P2446,9,Transfermarkt player ID
+1201,P5908,9,Geheugen van de VU person ID
+1202,P5887,9,Arkivportalen agent ID
+1205,P3040,9,SoundCloud ID
+1206,P2091,9,World Rowing ID (numeric format)
+1207,P9603,9,Scholasticon person ID
+1209,P8643,9,Dostoyevsky and His Entourage ID
+1210,P1285,8,Munzinger Sport number
+1211,P8518,8,Henrik Ibsen writings ID
+1214,P3126,8,ALCUIN ID
+1215,P1003,8,National Library of Romania ID
+1216,P2469,8,Theatricalia person ID
+1217,P5343,8,Poets.org poet ID
+1218,P9871,8,INAPP author ID
+1220,P3576,8,TLG author ID
+1221,P6831,8,Pinakes author ID
+1222,P6060,8,MoEML ID
+1223,P4212,8,PACTOLS thesaurus ID
+1224,P9106,8,Oxford Classical Dictionary ID
+1225,P8170,8,RPPS ID
+1226,P1565,8,Enciclopedia de la Literatura en México ID
+1227,P10022,8,Dizionario di Medicina ID
+1228,P3560,8,College Football Data Warehouse ID
+1229,P5372,8,Dictionnaire critique des historiens de l'art ID
+1230,P1146,8,World Athletics athlete ID
+1231,P1276,8,Dictionnaire du Jura ID
+1232,P3232,8,PhilPapers author ID
+1233,P2909,8,SecondHandSongs artist ID
+1234,P7028,8,National Library of Luxembourg ID
+1235,P3314,8,365Chess.com player ID
+1236,P1665,8,Chessgames.com player ID
+1238,P1255,8,HelveticArchives ID
+1239,P3888,8,Boijmans artist ID
+1240,P5007,8,Behind The Voice Actors person ID
+1241,P5663,8,Académie de Versailles member ID
+1242,P4607,8,Swedish Musical Heritage ID
+1243,P7624,8,YVNG ID
+1244,P3307,8,Galiciana authority ID
+1245,P10070,8,IRIS UNIPG author ID
+1247,P6660,8,Rxivist author ID
+1248,P4255,8,Banglapedia (English version) ID
+1249,P6713,8,Australian War Memorial ID
+1250,P4598,8,FAPESP researcher ID
+1251,P8135,8,Encyclopedia of České Budějovice ID
+1253,P7695,8,e-WV: The West Virginia Encyclopedia ID
+1254,P9285,7,Stadtlexikon Karlsruhe ID
+1255,P9613,7,ctext data entity ID
+1256,P7682,7,National Library of New Zealand ID
+1258,P2722,7,Deezer artist ID
+1260,P7140,7,München Wiki article ID
+1261,P9556,7,LTit person ID
+1262,P5641,7,PRELIB person ID
+1263,P3021,7,Iranica ID
+1264,P4084,7,MyAnimeList people ID
+1265,P3964,7,BDCYL authority ID
+1267,P7504,7,Jeugdliteratuur ID
+1268,P8788,7,Dignity Memorial person ID
+1269,P8269,7,Norwegian prisoner register person ID
+1270,P7571,7,Memorial Book Bundesarchiv ID
+1271,P9686,7,Classical Archives composer ID
+1272,P9337,7,Keratsini-Drapetsona libraries' catalogue authority ID
+1273,P4438,7,"BFI Films, TV and people ID"
+1274,P5298,7,Webb-site person ID
+1275,P6010,7,Encyclopedia of Alabama ID
+1277,P1258,7,Rotten Tomatoes ID
+1278,P4025,7,Pinakothek artist ID
+1279,P7512,7,startrek.com Database ID
+1281,P9710,7,Lexikon Westfälischer Autorinnen und Autoren person ID
+1284,P2985,7,DBSE ID
+1285,P1617,7,BBC Things ID
+1288,P5933,7,tweet ID
+1289,P4687,7,Dictionnaire des peintres belges ID
+1290,P6077,7,British Museum bioID
+1292,P6465,7,Democracy Club candidate ID
+1293,P6900,6,NicoNicoPedia ID
+1294,P2373,6,Genius artist ID
+1295,P7194,6,AZLyrics.com artist ID
+1296,P8125,6,Fandango person ID
+1298,P3502,6,Ameblo username
+1300,P4549,6,ARLIMA ID
+1302,P5408,6,Fantastic Fiction author ID
+1303,P3520,6,databaseOlympics.com athlete ID
+1304,P5527,6,Academia Brasileira de Letras ID
+1306,P6150,6,Academy Awards Database nominee ID
+1307,P7480,6,Brazilian federal deputy ID
+1308,P4944,6,Premiers préfets ID
+1309,P7829,6,English Vikidia ID
+1310,P6583,6,Lucerna person ID
+1311,P1818,6,Kaiserhof ID
+1312,P4440,6,Biblioteca Nacional de México ID
+1313,P8678,6,Slovník českých nakladatelství 1848-1949 person ID
+1314,P5459,6,RHE doctor ID
+1315,P9778,6,Looted Cultural Assets Database ID
+1316,P5033,6,Filmweb.pl person ID
+1317,P9328,6,Universal Music France artist ID
+1320,P1803,6,Masaryk University person ID
+1321,P1883,6,Declarator.org ID
+1324,P8992,6,1914-1918-Online ID
+1325,P3265,6,Myspace ID
+1326,P9585,6,Lexikon der österreichischen Provenienzforschung ID
+1327,P3708,6,PhDTree person ID
+1328,P5745,6,Pacific Coast Architecture Database person ID
+1329,P10266,6,AdoroCinema person ID
+1330,P7545,6,askArt person ID
+1332,P7148,6,Nauka Ukrainy scientist ID
+1333,P5259,6,Swedish Gravestone ID
+1334,P8210,6,LombardiaBeniCulturali artwork author ID
+1335,P6616,6,Library of Parliament of Canada person ID
+1336,P6535,6,BHL part ID
+1337,P10105,6,IRIS UNIVPM author ID
+1338,P8143,6,SAR ancestor ID
+1340,P5142,6,Chinese Political Elites Database ID
+1342,P9029,6,Viceversa Letteratura author ID
+1343,P7027,6,MPG ID
+1344,P4016,6,SlideShare username
+1348,P3943,6,Tumblr username
+1349,P10259,6,IRIS UNISS author ID
+1350,P6705,6,Academia Sinica authority ID
+1351,P4327,6,BHL bibliography ID
+1352,P10011,6,SISSA Digital Library author ID
+1353,P497,5,CBDB ID
+1356,P860,5,e-archiv.li ID
+1357,P7131,5,Bureau des longitudes ID
+1358,P4768,5,cinematografo.it name or company ID
+1359,P2264,5,mix'n'match catalog ID
+1360,P4903,5,New Georgia Encyclopedia ID
+1361,P5714,5,Tor.com author ID
+1362,P3997,5,Bait La Zemer Ha-Ivri artist ID
+1363,P4581,5,Städel Museum artist ID
+1364,P9466,5,Gyldendals Teaterleksikon ID
+1365,P1187,5,Dharma Drum Institute of Liberal Arts person ID
+1366,P6181,5,Disney A to Z ID
+1369,P10026,5,Research Data Australia ID
+1370,P5643,5,RSL author ID
+1373,P3136,5,elCinema person ID
+1374,P2181,5,Finnish MP ID
+1375,P2267,5,PolitiFact people and groups ID
+1376,P8129,5,IDU theatre name unique ID
+1378,P10148,5,CAMPUS author ID
+1379,P3925,5,Track and Field Statistics male athlete ID
+1380,P4703,5,HATVP person ID
+1381,P4208,5,Billboard artist ID
+1382,P1553,5,Yandex Music artist ID
+1384,P4265,5,Reddit username
+1385,P2399,5,British Council artist ID
+1387,P4601,5,Lives of WWI ID
+1388,P10265,5,Senators of Spain (1834-1923) ID
+1389,P5107,5,Behind The Voice Actors character ID
+1390,P4177,5,Finnish National Gallery artist ID
+1393,P4015,5,Vimeo identifier
+1394,P2498,5,Catalan Biographical Dictionary of Women ID
+1395,P5442,5,Library of Congress of Chile person ID
+1396,P3056,5,TCM Movie Database person ID
+1397,P7214,5,Allcinema person ID
+1398,P5558,5,Le Monde ID
+1400,P3984,5,subreddit
+1401,P1085,5,LibraryThing work ID
+1402,P2687,5,NDL JPNO
+1403,P5981,5,Encyclopedia Virginia ID
+1404,P9110,5,Le Lettere di Theodor Mommsen agli Italiani ID
+1405,P7834,5,Authenticus ID
+1408,P8975,5,Manus Online author ID
+1409,P8372,5,Web of Science ID
+1410,P7962,5,Dictionnaire des femmes de l’ancienne France ID
+1411,P4361,5,ExecutedToday ID
+1412,P6126,5,Santiebeati ID
+1413,P4891,5,Patrons de France ID
+1414,P7037,5,COURAGE ID
+1415,P7851,5,Smithsonian resource ID
+1416,P4534,5,EUTA person ID
+1418,P8366,5,GCatholic person ID
+1419,P5331,5,OCLC work ID
+1420,P1288,5,Kritisches Lexikon der Gegenwartsliteratur ID
+1421,P3155,5,Runeberg book ID
+1422,P4210,5,Bashkir encyclopedia (Bashkir version) ID (former scheme)
+1423,P5365,5,Internet Book Database of Fiction writer ID
+1424,P2008,5,IPNI publication ID
+1425,P8002,5,Social Security Death Index entry
+1427,P827,4,BBC programme ID
+1428,P9167,4,De Lakenhal artwork ID
+1429,P9981,4,L'Unificazione ID
+1431,P2432,4,J. Paul Getty Museum artist ID
+1432,P9123,4,Catalan Vikidia ID
+1434,P7836,4,Livelib.ru person ID
+1436,P5871,4,Norwegian war refugees register ID
+1437,P6645,4,Stedelijk Museum Amsterdam ID
+1439,P3235,4,PhilPapers topic
+1440,P7822,4,Italian Vikidia ID
+1441,P5648,4,AniDB character ID
+1442,P8850,4,CONOR.KS ID
+1443,P9407,4,Polignosi ID
+1444,P4929,4,AINM ID
+1446,P4906,4,Bargeton ID
+1447,P5340,4,American Film Institute person ID
+1448,P1229,4,Openpolis ID
+1449,P4175,4,Patreon ID
+1451,P1291,4,Association Authors of Switzerland ID (former scheme)
+1452,P4069,4,Italian National Olympic Committee athlete ID
+1453,P3361,4,PictoRight ID code
+1454,P4548,4,Commonwealth Games Federation athlete ID
+1455,P8613,4,Regesta Ecclesiastica Salisburgensia ID
+1457,P8935,4,Encyclopedia of the History of Ukraine ID
+1458,P1307,4,Swiss parliament ID
+1459,P6351,4,Genius artist numeric ID
+1460,P7109,4,Acharts.co artist ID
+1461,P6517,4,WhoSampled artist ID
+1462,P1714,4,Journalisted ID
+1463,P7697,4,Maine: An Encyclopedia ID
+1465,P5284,4,Douban movie celebrity ID
+1466,P5640,4,Read NZ Te Pou Muramura writer ID
+1467,P3055,4,NAQ elected person ID
+1468,P7882,4,ft.dk politician identifier
+1469,P4003,4,Facebook page ID
+1470,P4206,4,FOIH person ID
+1471,P7748,4,NIPS Proceedings author ID
+1472,P1712,4,Metacritic ID
+1473,P8783,4,AAGM person or institution ID
+1474,P4804,4,Compagnon de la Libération ID
+1476,P7644,4,Encyclopedia of Cleveland History ID
+1477,P1989,4,Encyclopaedia Metallum artist ID
+1478,P6839,4,TV Tropes identifier
+1479,P3204,4,Ciné-Ressources person ID
+1480,P3142,4,EDb person ID
+1481,P3114,4,ISzDb person ID
+1482,P3283,4,Bandcamp ID
+1483,P4589,4,Dreadnought Project page
+1484,P3495,4,FilmPolski.pl ID
+1487,P2914,4,MSBI person ID
+1488,P1054,4,NDL bib ID
+1490,P6304,4,researchportal.helsinki.fi profile ID
+1492,P8251,4,CTHS author ID
+1495,P8507,4,Legacy.com newspaper ID
+1496,P7176,4,XING profile ID
+1497,P3836,4,Pinterest username
+1498,P9678,4,Franciscan Center of Christian Oriental Studies ID
+1499,P7278,4,Peakbagger climber ID
+1500,P7038,4,Documenta Catholica Omnia author ID
+1501,P7758,4,SPIE profile ID
+1502,P4286,4,Nominis saint ID
+1503,P9441,4,Wissens-Aggregator Mittelalter und Frühe Neuzeit ID
+1504,P9693,4,BES-Net user ID
+1505,P8051,4,Geschichtsquellen des deutschen Mittelalters author ID
+1507,P5184,4,Daum Encyclopedia ID
+1508,P4772,4,compArt person ID
+1509,P6714,4,Whitney Museum of American Art artist ID
+1510,P8631,4,Canadian Women Artists History Initiative ID
+1512,P8149,4,Provenio ID
+1513,P2020,3,WorldFootball.net player ID
+1514,P4053,3,team Deutschland ID
+1515,P4023,3,German Football Association person ID
+1516,P8309,3,Yle topic ID
+1517,P6548,3,NZ On Screen person ID
+1519,P3435,3,VGMdb artist ID
+1521,P8608,3,Fatcat ID
+1522,P7031,3,Penguin India author ID
+1523,P9692,3,LexM ID
+1524,P4138,3,Treasury of Lives ID
+1525,P7832,3,Basque Vikidia ID
+1528,P1289,3,Kritisches Lexikon zur fremdsprachigen Gegenwartsliteratur ID
+1529,P4479,3,INDUCKS character ID
+1530,P7646,3,IISG ID
+1531,P6721,3,K10plus PPN ID
+1533,P9020,3,AV Production person ID
+1534,P8796,3,FilmPolski press collection ID
+1535,P5147,3,Dictionary of Swedish Translators ID
+1536,P9046,3,A*dS Encyclopedia ID
+1537,P9634,3,AADFI member ID
+1538,P9646,3,senato.archivioluce.it person ID
+1539,P10056,3,IRIS UNISA author ID
+1540,P6784,3,Harper's author ID
+1541,P3765,3,All-Athletics.com ID
+1542,P7676,3,Vie publique person ID
+1544,P7157,3,The Top Tens ID
+1545,P5081,3,Norsk kunstnerleksikon ID
+1546,P9318,3,Ávvir topic ID
+1547,P2390,3,Ballotpedia ID
+1548,P8041,3,DR music artist ID
+1549,P10207,3,Folketinget actor ID
+1550,P7543,3,ZSI author ID
+1551,P8520,3,TCLF ID
+1553,P7388,3,Great Encyclopedia of Navarre ID
+1554,P4085,3,MyAnimeList character ID
+1555,P5470,3,Scottish Poetry Library poet ID
+1556,P4033,3,Mastodon address
+1558,P10031,3,Enciclopedia di Roma person ID
+1560,P3760,3,Iditarod musher ID
+1561,P7332,3,NMM artist ID
+1563,P6917,3,Historical Archives of the European Union ID
+1564,P10054,3,IRIS UNIURB author ID
+1565,P6926,3,Nederlandse Top 40 artist ID
+1566,P4779,3,MYmovies actor ID (former scheme)
+1567,P5254,3,FilmTv.it person ID
+1568,P4515,3,Prisma ID
+1569,P4332,3,Deutsche Synchronkartei actor ID
+1570,P3845,3,TV Guide person ID (former scheme)
+1571,P3933,3,Cinema.de ID
+1572,P4782,3,Movieplayer person ID
+1573,P4682,3,Eldoblaje original actor ID
+1574,P7215,3,Eiga.com person ID
+1575,P7300,3,MUBI person ID
+1576,P9995,3,MYmovies person ID
+1577,P3634,3,The Met object ID
+1578,P9842,3,MART catalog person ID
+1579,P7803,3,Decine21 person ID
+1581,P6521,3,Crew United person ID
+1582,P2728,3,CageMatch worker ID
+1583,P3506,3,Luding designer ID
+1584,P3786,3,Danskefilm person ID
+1585,P4391,3,The-Sports.org athlete ID
+1586,P5605,3,DOLF ID
+1587,P8618,3,ITF player ID 2020
+1589,P6199,3,member of the Portuguese parliament ID
+1590,P3344,3,Vote Smart ID
+1591,P1839,3,US Federal Election Commission ID
+1592,P9890,3,Online Begraafplaatsen person ID
+1593,P3298,3,Belgian Senate person ID
+1594,P6277,3,Objectif Gard topic ID
+1595,P9070,3,Internet Encyclopedia of Ukraine ID
+1596,P5430,3,Poetry International Web poet ID
+1597,P10299,3,Leopoldina member ID (new)
+1598,P9404,3,OFDb person ID
+1599,P3960,3,Base biographique AUTOR ID
+1600,P6702,3,Shanghai Library person ID
+1602,P9620,3,Nevada Women's History Project ID
+1604,P3682,3,Australian Olympic Committee athlete ID
+1606,P1362,3,Theaterlexikon der Schweiz ID
+1607,P9039,3,Studium Parisiense ID
+1608,P10219,3,CNSflora ID
+1611,P8095,3,Encyklopedia Solidarności ID
+1612,P4254,3,Bengali Banglapedia ID
+1613,P4930,3,Julien ID
+1615,P10276,3,ENEA-IRIS Open Archive author ID
+1616,P9268,3,Science Magazine author ID
+1617,P7068,3,Gotlands museum
+1618,P7238,3,Open Science Framework ID
+1621,P4935,3,Small Monuments of Plzeň Catalogue ID
+1622,P6016,3,Tennessee Encyclopedia ID
+1623,P10018,3,George Eastman Museum people ID
+1624,P3315,3,ChessTempo.com player ID
+1625,P9674,3,Burke Herbarium Image Collection contributor ID
+1626,P9482,3,Catalogue of the General State Archives ID
+1627,P7723,3,The Encyclopedia of Oklahoma History and Culture ID
+1628,P961,3,IPNI plant ID
+1630,P4569,3,BPH journal ID
+1631,P1042,3,ZDB ID
+1633,P3906,3,Ishim ID
+1634,P2171,3,TheyWorkForYou ID
+1636,P6728,3,Dictionnaire des Vendéens ID
+1637,P9247,3,Pontifical University of Salamanca ID
+1639,P6611,3,Semantic Scholar topic ID
+1640,P9575,2,Australian Music Centre artist ID
+1641,P4381,2,Soccerdonna player ID
+1642,P2369,2,Soccerway player ID
+1643,P3043,2,Scoresway soccer person ID
+1646,P4116,2,JewAge person ID
+1647,P7472,2,National Marine Biological Library  ID
+1648,P2194,2,PSS-archi architect ID
+1649,P4272,2,DPLA subject ID
+1650,P745,2,Low German Bibliography and Biography ID
+1651,P2089,2,Library of Congress JukeBox ID (former scheme)
+1652,P7574,2,Swedish Royal Theater Archive
+1654,P8885,2,Namuwiki ID
+1656,P10059,2,Philosophica ID
+1657,P9589,2,Muziekencyclopedie ID
+1658,P850,2,WoRMS-ID for taxa
+1659,P6752,2,RGALI ID
+1661,P7085,2,TikTok username
+1662,P8441,2,Cistercian Biography Online ID
+1663,P1736,2,Information Center for Israeli Art artist ID
+1664,P8713,2,Stadtwiki Dresden article
+1665,P1256,2,Iconclass notation
+1666,P6870,2,Latvian National Encyclopedia Online ID
+1667,P9621,2,Treccani's Enciclopedia della Matematica ID
+1668,P9041,2,DiVo person ID
+1669,P8248,2,Colon Classification
+1671,P3144,2,elFilm person ID
+1672,P6081,2,RIA Novosti reference
+1674,P7846,2,Beta maṣāḥǝft ID
+1676,P8577,2,ICP artist ID
+1677,P3706,2,RITVA Person ID
+1678,P9642,2,Olschki author ID
+1680,P8287,2,Worlds Without End author ID
+1681,P10103,2,Re.Public@Polimi author ID
+1684,P3221,2,New York Times topic ID
+1685,P2574,2,National-Football-Teams.com player ID
+1686,P3726,2,EU-Football.info player ID
+1687,P5409,2,Île en île author ID
+1688,P5344,2,Printemps des poètes poet ID
+1689,P4123,2,French National Assembly ID
+1690,P7040,2,NosDéputés.fr identifiant
+1691,P1847,2,Nasjonalbiblioteket photographer ID
+1692,P3694,2,SpeedSkatingNews.info speed skater ID
+1693,P5985,2,Literaturaren Zubitegia ID
+1694,P6441,2,Douban author ID
+1697,P3542,2,FIBA player ID
+1699,P6179,2,Dimensions Publication ID
+1700,P1287,2,KDG Komponisten der Gegenwart ID
+1701,P8386,2,Gramophone composer ID
+1702,P8551,2,Opera Online composer ID
+1703,P9098,2,BiblioLMC ID
+1704,P9134,2,Studio di Fonologia Musicale RAI person ID
+1705,P8334,2,MuseScore artist ID
+1706,P5315,2,BioStor work ID
+1708,P3769,2,It's Rugby player ID
+1709,P536,2,ATP player ID
+1710,P8124,2,CPAN author ID
+1711,P9855,2,Edizioni Ares author ID
+1713,P858,2,ESPNscrum player ID
+1715,P4797,2,member of the Assembly of Madrid ID
+1716,P3889,2,Swiss Federal Archives ID
+1717,P8871,2,Southwest Harbor Public Library item ID
+1718,P7717,2,Vaare falne ID
+1719,P4075,2,Czech Monument Catalogue Number
+1720,P8633,2,Re-Member ID
+1721,P6414,2,DIZIE ID
+1722,P3546,2,AustralianFootball.com ID
+1723,P5662,2,Académie de Mâcon member ID
+1725,P3733,2,MOOMA artist ID
+1726,P3017,2,Rolling Stone artist ID
+1727,P3305,2,KINENOTE person ID
+1728,P7303,2,Grammy Awards artist ID
+1731,P5691,2,BND ID
+1732,P7331,2,Letteraturaitaliana.net author ID
+1735,P9363,2,Tacoma-Pierce County Obituary Index ID
+1736,P2688,2,Box Office Mojo person ID
+1737,P9851,2,DC character ID
+1738,P1216,2,National Heritage List for England number
+1740,P9765,2,Great Ukrainian Encyclopedia Online ID
+1741,P8281,2,Liszt Academy Lexikon person ID
+1742,P7430,2,Dictionary of Sculptors in Britain ID
+1743,P2729,2,BWF.tournamentsoftware.com player ID
+1744,P3620,2,BWFbadminton.com player ID
+1745,P4112,2,danskfilmogtv person ID
+1746,P6984,2,Rupa Publications author ID
+1747,P4126,2,ESEC person ID
+1748,P2945,2,British Book Trade Index ID
+1749,P1739,2,CiNii book ID
+1752,P3509,2,Dagens Nyheter topic ID
+1753,P3479,2,Omni topic ID
+1754,P9627,2,Romanistenlexikon ID
+1755,P1935,2,Database of Classical Scholars ID
+1756,P6730,2,CroRec ID
+1757,P3284,2,Yahoo! Japan Talent Database ID
+1758,P6325,2,Critique d'art ID
+1759,P7042,2,The Latin Library author ID
+1760,P7498,2,Women Film Pioneers ID
+1761,P3277,2,KANTL member ID
+1762,P8382,2,Finales Rugby ID
+1763,P5621,2,Marvel character ID
+1764,P4621,2,Württembergische Kirchengeschichte person ID
+1767,P3436,2,AELG ID
+1768,P1959,2,Dutch Senate person ID
+1769,P6621,2,Le Figaro tag ID
+1770,P8648,2,Ministry of the Interior of Italy ID
+1771,P5528,2,Belgian Heritage in Brazil ID
+1772,P3408,2,FINA athlete ID
+1773,P8148,2,re:publica speaker ID
+1775,P6667,2,MARGS ID
+1776,P9768,2,Women Also Know History ID
+1778,P8993,2,JAD ID
+1779,P9245,2,Labour Australia ID
+1781,P8336,2,MNBAQ artist ID
+1782,P7060,2,NosSénateurs.fr identifier
+1784,P9114,2,Mathematica Italiana person ID
+1785,P3980,2,Unifrance person ID
+1788,P6980,2,LB.ua dossier ID
+1789,P7804,2,dovidka.com.ua ID
+1792,P9455,2,Biographia Benedictina ID
+1793,P7992,2,Poeti d'Italia in lingua latina author ID
+1794,P7619,2,The Cardinals of the Holy Roman Church ID
+1795,P8572,2,Spanish Artists from the Fourth to the Twentieth Century ID
+1796,P4439,2,MNCARS artist ID
+1797,P3338,2,Encyclopedia of Surfing ID
+1798,P6298,2,bgm.tv person ID
+1799,P4869,2,Operabase ID
+1800,P8523,2,Présence Compositrices composer ID
+1801,P1663,2,ProCyclingStats cyclist ID
+1802,P5532,2,L'île author ID
+1804,P9588,2,causesanti.va ID
+1805,P7738,2,EEPS ID
+1808,P9964,2,Kalliope-Verbund ID
+1809,P6496,2,Biblioteca Virtual Andalucía authority ID
+1810,P8566,2,monumenta.ch ID
+1811,P9231,2,Archivo Linz de la Transición Española ID
+1812,P5921,2,Index of Historic Collectors and Dealers of Cubism ID
+1814,P9013,2,Encyclopedia of Saami Culture ID
+1815,P2510,2,National Discography of Italian Song artist/group ID
+1816,P9564,2,Biographical Dictionary of Chinese Christianity ID
+1817,P6903,2,ArtBrokerage artist ID
+1819,P1253,2,BCU Ecrivainsvd ID
+1821,P7506,2,Naver Encyclopedia ID
+1822,P8694,2,Science Museum Group ID
+1823,P3058,2,Architectuurgids architect ID
+1824,P9695,2,Legie 100 legionary ID
+1825,P3654,2,Chess.com member ID
+1826,P3915,2,Australian Athletics Historical Results athlete ID
+1827,P3924,2,Track and Field Statistics female athlete ID
+1831,P2182,2,Finnish Ministers database ID
+1832,P4063,2,United States Olympic & Paralympic Committee athlete ID
+1834,P3421,2,Belvedere artist ID
+1837,P7692,2,Utah History Encyclopedia ID
+1838,P4742,2,Uniform Resource Identifier Scheme
+1839,P6770,2,Swiss National Sound Archives ID
+1841,P10160,2,PGM author ID
+1844,P5567,2,National Research Institute for Cultural Properties artist ID
+1845,P8743,2,Scholars Strategy Network ID
+1846,P5797,2,Twitch channel ID
+1847,P1274,2,ISFDB title ID
+1848,P10055,2,IRIS Verona author ID
+1849,P2278,2,Member of the Hellenic Parliament ID
+1850,P9399,2,athletics.lv athlete ID
+1852,P8301,2,Montreux Jazz Festival person ID
+1853,P2428,2,RePEc Short-ID
+1854,P8740,2,The Boardr profile ID
+1856,P1149,2,Library of Congress Classification
+1857,P3923,2,Diamond League athlete ID
+1859,P8300,2,Montreux Jazz Festival concert ID
+1860,P9303,2,svoyak.info player ID
+1861,P6123,1,B3Kat dataset ID
+1862,P1469,1,FIFA player ID
+1863,P2276,1,UEFA player ID
+1864,P6615,1,Kicker.de player ID (former scheme)
+1865,P8021,1,Kooora/Goalzz player ID
+1866,P8912,1,Kicker.de player ID (actual scheme)
+1870,P8007,1,US Bureau of Prisons Inmate Register Number
+1871,P4704,1,Smithsonian American Art Museum artwork ID
+1873,P9631,1,armradioarchive.am person ID
+1877,P9468,1,LIMA media artist ID
+1878,P2892,1,UMLS CUI
+1879,P7690,1,South Carolina Encyclopedia ID
+1881,P9000,1,World History Encyclopedia ID
+1882,P5414,1,The Paris Review interviewee ID
+1884,P8730,1,National Park Service people ID
+1885,P1893,1,OpenPlaques plaque ID
+1887,P8749,1,Dictionary of Portuguese Historians ID
+1888,P4051,1,Legislation of Ukraine ID
+1889,P2481,1,Elite Prospects player ID
+1891,P9510,1,Forbes Russia profile ID
+1892,P6567,1,Florida Historical Marker List ID
+1894,P10147,1,U-PAD author ID
+1896,P3532,1,databaseFootball.com ID
+1897,P3561,1,Pro-Football-Reference.com player ID
+1898,P3684,1,Driver Database driver ID
+1899,P3884,1,Tilastopaja male athlete ID
+1900,P6813,1,Mediapart tag ID
+1901,P4956,1,BDH edition ID
+1902,P8037,1,Filmfront person ID
+1903,P1036,1,Dewey Decimal Classification
+1904,P10189,1,Bloomsbury Fashion Central ID
+1906,P9307,1,Fancyclopedia 3 ID
+1907,P4790,1,Basketball-Reference.com international player ID
+1908,P3927,1,eWRC-results.com racer ID
+1909,P4563,1,Art Museum of Estonia artist ID
+1910,P5226,1,BRAHMS artist ID
+1911,P8688,1,CompositionToday composer ID
+1912,P8591,1,Grove Music Online ID
+1913,P6091,1,MGG Online ID
+1914,P633,1,Quebec cultural heritage directory ID
+1915,P2582,1,J. Paul Getty Museum object ID
+1917,P1409,1,Cycling Archives cyclist ID
+1919,P3453,1,IPI base code
+1920,P5847,1,AnimeClick character ID
+1921,P3180,1,Visual Novel Database ID
+1924,P5749,1,Amazon Standard Identification Number
+1925,P7920,1,TheTVDB person ID
+1926,P3481,1,Parks & Gardens UK record ID
+1928,P5506,1,Poetry In Voice poet ID
+1930,P2537,1,Free Software Directory entry
+1932,P6192,1,Hembygdsportalen ID
+1933,P2323,1,Swedish Olympic Committee athlete ID
+1934,P6858,1,Réunionnais du monde ID
+1935,P4660,1,CPDOC ID
+1936,P3160,1,Minnesota legislator ID
+1937,P3547,1,AFL Tables player ID
+1938,P1286,1,Munzinger Pop ID
+1939,P3162,1,Rock and Roll Hall of Fame ID
+1940,P5121,1,All About Jazz musician ID
+1941,P7052,1,Jaxsta profile ID
+1942,P4326,1,BFI Filmography person ID
+1943,P4785,1,MYmovies name ID (former scheme)
+1944,P4781,1,MYmovies director ID (former scheme)
+1945,P3341,1,Kvikmyndir person ID
+1947,P3604,1,World Triathlon triathlete ID
+1948,P2470,1,Talouselämän vaikuttajat ID
+1949,P1203,1,Finnish municipality number
+1951,P5321,1,Museo del Prado artist ID
+1953,P9464,1,Biblioteca Digital Curt Nimuendajú ID
+1954,P5406,1,Rendez-vous de l'histoire ID
+1956,P3691,1,International Swimming Hall of Fame ID
+1957,P5312,1,Kino-teatr.ua person ID
+1958,P4957,1,AIDA freediver ID
+1959,P10291,1,Wikisimpsons ID
+1961,P2857,1,WWE.com superstar ID
+1962,P2764,1,Wrestlingdata person ID
+1963,P2829,1,Internet Wrestling Database ID
+1964,P2830,1,Online World of Wrestling ID
+1965,P2338,1,Musopen composer ID
+1966,P6403,1,TheatreOnline ID
+1967,P7389,1,Three Decks people ID
+1968,P3351,1,Adult Film Database actor ID
+1969,P3869,1,IAFD female performer ID
+1970,P5246,1,Pornhub ID
+1971,P6290,1,Penthouse ID
+1972,P5267,1,YouPorn ID
+1973,P5540,1,RedTube ID
+1974,P8718,1,AVN performer ID
+1975,P8720,1,xHamster ID
+1976,P6119,1,Letterboxd actor ID
+1977,P10155,1,Babesdirectory ID
+1980,P5163,1,Odnoklassniki ID
+1981,P5309,1,Drouot artist ID
+1982,P1483,1,kulturnoe-nasledie.ru ID
+1983,P8803,1,stolpersteine-berlin.de Stolperstein identifier
+1984,P9395,1,Verified Handles VHID
+1985,P5039,1,Authorea author ID
+1986,P8964,1,OpenReview.net profile ID
+1987,P4594,1,arXiv author ID
+1988,P7671,1,Semion author ID
+1989,P9420,1,CNN contributor ID
+1990,P4939,1,BFMTV.com director ID
+1991,P3566,1,Just Sports Stats ID
+1992,P6620,1,L'Express person ID
+1993,P10044,1,Trove work ID
+1995,P3035,1,ISBN publisher prefix
+1996,P10006,1,AllSides ID
+1997,P9910,1,Online Begraafplaatsen memorial ID
+1998,P1385,1,Enciclopédia Açoriana ID
+1999,P4398,1,Canada's Sports Hall of Fame athlete ID
+2000,P9125,1,Microsoft MVP profile ID
+2003,P6603,1,film-documentaire.fr author ID
+2004,P6617,1,RoMEO publisher ID
+2005,P8562,1,JSTOR publisher ID
+2006,P7403,1,Publons publisher ID
+2008,P3054,1,Ontario MPP ID
+2009,P3477,1,Nihon Tarento Meikan ID
+2010,P2987,1,Taekwondo Data ID
+2013,P2879,1,Library of the National Congress of Argentina ID
+2014,P8144,1,Ternopil Encyclopedia ID
+2015,P9937,1,Postimees topic ID
+2016,P9606,1,WUA author ID
+2018,P2812,1,MathWorld identifier
+2019,P4892,1,Siprojuris ID
+2020,P5505,1,WorldCat Registry ID
+2021,P6492,1,BVPH authority ID
+2022,P6891,1,National Film Board of Canada director identifier
+2023,P10043,1,Indonesian parliament candidate ID 2019
+2025,P9492,1,NC Highway Historical Marker Program ID
+2026,P4287,1,Riigikogu ID
+2027,P5498,1,Base de datos de premiados person ID
+2028,P6934,1,Syriac Biographical Dictionary ID
+2029,P6158,1,ALCA author ID
+2031,P6874,1,Musixmatch artist ID
+2032,P10104,1,PORTO@Iris author ID
+2034,P5264,1,Relationship Science person ID
+2036,P3554,1,World Series of Poker ID
+2037,P3564,1,Global Poker Index ID
+2038,P6146,1,The Hendon Mob ID
+2039,P2459,1,IBU biathlete ID
+2040,P10133,1,Russian Academy of Sciences person ID
+2041,P6286,1,ICCD ID - S form
+2042,P9508,1,MileSplit ID
+2043,P2613,1,TED talk ID
+2044,P5440,1,Elysee.fr president ID
+2045,P3207,1,Vine user ID
+2046,P8511,1,Fototeka person ID
+2047,P9592,1,Online Archive of California finding aid ID
+2048,P6200,1,BBC News topic ID
+2050,P8904,1,Parler username
+2051,P5488,1,artist-info curator ID
+2052,P7627,1,Artsdata.ca ID
+2053,P7696,1,Français libres ID
+2054,P7886,1,Media Arts Database ID
+2055,P6921,1,MangaSeek person ID
+2056,P5602,1,Chercheurs d'Asie ID
+2057,P6760,1,Know Your Meme ID
+2060,P4542,1,World of O athlete ID
+2061,P6623,1,Gamepedia article ID
+2062,P9689,1,Crosscut author ID
+2063,P1144,1,Library of Congress Control Number (LCCN) (bibliographic)
+2064,P1844,1,HathiTrust ID
+2065,P4948,1,DDB ID
+2066,P8344,1,WikiTrek ID
+2068,P8233,1,Augustins de l'Assomption ID
+2069,P10021,1,UAE University Libraries ID
+2071,P4551,1,Everyone Remembered ID
+2072,P4716,1,Académie des Inscriptions et Belles-Lettres member ID
+2074,P5801,1,Academia.edu topic ID
+2076,P6490,1,BIDICAM authority ID
+2077,P7908,1,Clavis Clavium ID
+2078,P8050,1,Women of Scotland subject ID
+2079,P1746,1,ZooBank ID for name or act
+2080,P4821,1,Cour des comptes magistrate ID
+2083,P4623,1,South Australian Football Hall of Fame inductee ID
+2084,P4885,1,AFL Tables coach ID
+2085,P1967,1,BoxRec boxer ID
+2086,P9062,1,BABEL author ID
+2088,P8155,1,Republic of Korea Parliamentarian Society ID
+2089,P4751,1,Sports-Reference.com college basketball coach ID
+2090,P1044,1,SWB editions
+2091,P9256,1,Diccionari de la traducció catalana ID
+2092,P7012,1,World Encyclopedia of Puppetry Arts ID
+2093,P8105,1,SAN archive producer ID
+2094,P886,1,Lexicon istoric retic ID
+2095,P10092,1,Bildatlas-Künstler-ID
+2096,P1278,1,Legal Entity Identifier
+2097,P2447,1,Transfermarkt manager ID
+2099,P2350,1,SpeedSkatingBase.eu ID
+2100,P3695,1,SpeedSkatingStats speed skater ID
+2101,P4062,1,Czech Olympic Committee (Olympijskytym.cz) athlete ID
+2102,P8223,1,K-Scholar ID
+2103,P4193,1,Familypedia person ID
+2104,P1601,1,Esperantist ID
+2105,P6796,1,OSZMI ID
+2106,P2641,1,Davis Cup player ID
+2107,P599,1,ITF player ID
+2108,P10028,1,Tennis Abstract player ID
+2110,P4108,1,Gedbas genealogy person ID
+2111,P4681,1,Eldoblaje dubbing actor ID
+2112,P3827,1,JSTOR topic ID
+2113,P8092,1,EcuRed article
+2114,P6455,1,Bilibili user ID
+2116,P6283,1,MNopedia ID
+2117,P8950,1,Dizionario degli artisti ID
+2118,P3097,1,ISBN identifier group
+2119,P6636,1,CDEC ID
+2121,P8342,1,SIUSA archival fonds ID
+2122,P4694,1,Arquivo Arq ID
+2123,P9610,1,PoetsGate poet ID
+2124,P6976,1,Retrosheet person ID
+2125,P3932,1,Digital Valencian Library author ID
+2126,P8163,1,Diels-Kranz ID
+2127,P6862,1,digilibLT author ID
+2129,P3746,1,Wildflowers of Israel ID
+2132,P5316,1,Swedish Signaturer.se ID
+2133,P6037,1,ProsopoMaths ID
+2137,P960,1,Tropicos ID
+2138,P1747,1,Flora of China ID
+2139,P846,1,GBIF taxon ID
+2140,P7715,1,World Flora Online ID
+2141,P3316,1,ICCF player ID
+2142,P8985,1,Dizionario bio-bibliografico dei bibliotecari italiani del XX secolo ID
+2143,P4488,1,COAM architect ID
+2144,P8686,1,Biographical Dictionary of Fourierism ID
+2146,P5888,1,Arkivportalen archive ID
+2148,P3645,1,All Blacks player ID
+2149,P9619,1,Price One Penny author ID
+2151,P2736,1,Biographical Directory of Federal Judges ID
+2152,P7638,1,OverDrive creator ID
+2154,P9053,1,Projecto Vercial author ID
+2155,P8067,1,Macdonald Dictionary ID
+2157,P7614,1,Dictionary of Wisconsin History ID
+2158,P7883,1,Historical Marker Database ID
+2159,P4276,1,Cinémathèque québécoise work identifier
+2161,P3725,1,CEV player ID
+2162,P4050,1,French Olympic Committee athlete ID
+2164,P4357,1,Musikverket person ID
+2165,P819,1,ADS bibcode
+2166,P2804,1,World Sailing member ID
+2167,P2818,1,Sherdog fighter ID
+2168,P9722,1,UFC athlete ID
+2169,P3172,1,World Bridge Federation ID
+2170,P7130,1,Vidwan ID
+2172,P5796,1,Internet Game Database person ID
+2173,P6232,1,Danske Taler speaker ID
+2174,P9521,1,Biology Online Biology Dictionary entry
+2175,P2169,1,PublicWhip ID
+2176,P4454,1,Argentine Chamber of Deputies ID
+2177,P6585,1,Directorio Legislativo ID
+2178,P4422,1,U.S. Ski and Snowboard Hall of Fame athlete ID
+2179,P1246,1,patent number
+2181,P8880,1,AstroGen ID
+2183,P4978,1,PRS Legislative Research MP ID
+2184,P2686,1,OpenSecrets people ID
+2185,P5362,1,Académie des sciences morales et politiques member ID
+2186,P9467,1,IAU member ID
+2187,P3044,1,College Football HoF ID
+2189,P4489,1,Hellenic Olympic Committee athlete ID
+2191,P9524,1,Chamber of Deputies of Romania person ID
+2193,P6791,1,The Atlantic author ID
+2194,P3689,1,ICF canoer ID
+2195,P3500,1,Ringgold ID
+2196,P9885,1,Bing entity ID
+2197,P5964,1,Norwegian Nationaltheatret actor ID
+2198,P3789,1,Telegram username
+2199,P4889,1,MuIS person or group ID
+2200,P3140,1,SourehCinema person ID
+2201,P8919,1,Gab username
+2202,P9450,1,National Provider Identifier
+2204,P4283,1,LUMIERE director ID
+2206,P9526,1,Scholarpedia article ID
+2207,P2709,1,CQ Ranking female cyclist ID
+2208,P1440,1,FIDE player ID
+2209,P4352,1,BillionGraves cemetery ID
+2211,P8772,1,Blogger user profile ID
+2212,P7105,1,LezWatch.TV actor ID
+2216,P3766,1,European Athletics ID
+2217,P3882,1,Tilastopaja female athlete ID
+2218,P7898,1,National Aviation Hall of Fame ID
+2220,P8273,1,GMC registration number
+2221,P5550,1,La Vie des idées ID
+2222,P5951,1,ComiXology creator ID
+2223,P5503,1,Poetry Society of America poet ID
+2224,P8895,1,All the Tropes identifier
+2225,P2431,1,Thyssen-Bornemisza artist ID
+2227,P3505,1,BoardGameGeek designer ID
+2228,P1566,1,GeoNames ID
+2229,P6461,1,Rock's Backpages artist ID
+2230,P6960,1,IMVDb artist ID
+2231,P4198,1,Google Play Music artist ID (former scheme)
+2232,P4576,1,Tidal artist ID
+2233,P6894,1,Beatport artist ID
+2234,P6600,1,Resident Advisor artist ID
+2235,P3391,1,Verkhovna Rada MP ID
+2236,P7282,1,Slovo i Dilo person ID
+2237,P10102,1,IRIS POLIBA author ID
+2238,P7106,1,LezWatch.TV character ID
+2239,P6780,1,LGBTFansDB character ID
+2240,P5863,1,CharacTour character ID
+2242,P5666,1,Quais du polar writer ID
+2243,P4319,1,Elite Prospects staff ID
+2244,P3111,1,FEI athlete ID
+2245,P8689,1,ITHL author ID
+2246,P3926,1,USA Track & Field athlete ID
